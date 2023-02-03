@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJUnionGraphQl", "AJUnionGraphQl\AJUnionGraphQl.csproj", "{5A6897D2-3320-4C67-BEB8-3AF3904CA978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6897D2-3320-4C67-BEB8-3AF3904CA978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6897D2-3320-4C67-BEB8-3AF3904CA978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6897D2-3320-4C67-BEB8-3AF3904CA978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6897D2-3320-4C67-BEB8-3AF3904CA978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {144D71C2-0BDE-4E90-B418-7F8067EB285C}
+	EndGlobalSection
+EndGlobal
